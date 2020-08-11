@@ -13,11 +13,9 @@ p contacts
 
 
 
-
+#original way ti tried
 #contacts.each do |k, v|
 #  v[:email] = contact_data[0]
 #  v[:address] = contact_data[1]
 #  v[:phone] = contact_data[2]
 #end
-
-p contacts
